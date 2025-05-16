@@ -13,3 +13,5 @@ Machine Learning Predictions: Uses linear regression to predict student grades b
 Correlation Analysis: Displays relationships between different performance metrics using a heatmap.
 
 User-Friendly Interface: Developed with Dash and Bootstrap for a modern, responsive design.
+
+![p5](https://github.com/user-attachments/assets/ddc20f32-85eb-4f56-853b-24b27a711cc4)
